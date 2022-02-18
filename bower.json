@@ -16,10 +16,10 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-unsafe-coerce": "^5.0.0"
+    "purescript-unsafe-coerce": "https://github.com/working-group-purescript-es/purescript-unsafe-coerce.git#es-modules"
   },
   "devDependencies": {
-    "purescript-assert": "^5.0.0",
-    "purescript-console": "^5.0.0"
+    "purescript-assert": "https://github.com/working-group-purescript-es/purescript-assert.git#es-modules",
+    "purescript-console": "https://github.com/working-group-purescript-es/purescript-console.git#es-modules"
   }
 }
